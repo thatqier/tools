@@ -11,4 +11,4 @@
 
 3. get_url_today.py
 
-xray扫描器生成的json文件进行处理，另存为csv，并进行初步误报筛选
+xray 安全评估工具 扫描器生成的json文件进行处理，另存为csv，并进行初步误报筛选
