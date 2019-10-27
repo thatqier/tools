@@ -7,3 +7,5 @@
     对orleven的子域名挖掘工具扫描结果xls格式提取近期三天的结果
     - [get_url_today.py](./get_url_today.py)
     xray 安全评估工具 扫描器生成的json文件进行处理，另存为csv，并进行初步误报筛选
+    - [xray_to_dingding.py](./xray_to_dingding.py)
+    xray 扫描结果发送到钉钉
