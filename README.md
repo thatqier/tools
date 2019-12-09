@@ -10,3 +10,5 @@
     - [xray_to_dingding.py](./xray_to_dingding.py)
     xray 扫描结果发送到钉钉
     ![](https://github.com/thatqier/tools/blob/master/imags/xray_to_dingding.jpg)
+    - [douyin.py](./douyin.py)
+    抖音一个公开的视频上传脚本
